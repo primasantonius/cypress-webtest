@@ -1,0 +1,18 @@
+{
+  "name": "cypress-aut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^9.2.0"
+  },
+  "devDependencies": {
+    "dotenv": "^10.0.0",
+    "faker": "^5.5.3"
+  },
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "primas",
+  "license": "ISC"
+}
